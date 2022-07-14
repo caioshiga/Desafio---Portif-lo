@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+
+    background-color: #22212C;
+    color: #837E9F;
+
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: bold;
+}
